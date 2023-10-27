@@ -23,9 +23,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Home, icon: home, url: "https://prasanthk.com"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/prasanthc41m/"}
   - {title: Github, icon: github, url: "https://github.com/prasanthc41m"}
-  - {title: Home, icon: home, url: "https://prasanthk.com"}
+
  # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
